@@ -18,5 +18,11 @@ if we add or change old files in our desktop or vs code so we need to proceed 2 
     git add index.html                 ------- to add new file 
 
     //*  to add all file we use      git add .      dot
+   *//
     <br>
   2.commit   git commit -m "some message to add /commit "
+
+3. push command is used for upload local repo content to remote repo
+           git push origin main
+
+  
